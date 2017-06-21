@@ -2,6 +2,9 @@
 Created on Feb 4, 2014
 
 @author: Naved
+Abstract classes are used to define API. 
+By declaring a method abstract, parent class can enforce the child to implement the method before
+being able to instantiate.
 '''
 
 import abc
